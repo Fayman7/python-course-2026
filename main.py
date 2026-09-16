@@ -34,6 +34,7 @@ def delete_record_by_name(name):
             return
     print("игра не найдена")
 
+# проверка функций
 show_all_games()
 create_record("stardew valley", "active", "pc")
 show_all_games()
